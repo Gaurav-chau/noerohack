@@ -1,0 +1,7 @@
+# Python dependencies
+# Add your required packages here
+jupyter
+notebook
+pandas
+numpy
+matplotlib
